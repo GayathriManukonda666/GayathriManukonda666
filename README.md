@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @GayathriManukonda666
 - 👀 I’m interested in Full Stack Development
-- ✨ I’m currently learning Front end languages
 -
 -
 
